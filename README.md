@@ -6,8 +6,25 @@
 ---
 
 ### 💡 About Me
-Passionate about leveraging AI, security, and data to solve real-world challenges. I enjoy building solutions around Zero Trust, Incident Response, Security Operations, and Data Analytics.  
-Currently focusing on AI-driven SOC tooling, micro-segmentation strategies, and intelligent threat detection.
+I am a results‑driven Cybersecurity and Data Analytics professional with hands‑on experience in SOC operations, incident detection, compliance frameworks (ISO 27001, NIS2, SOC 2), and data‑driven decision‑making. My background blends security expertise with data analytics, allowing me to tackle challenges in threat detection, risk assessment, automation, and business intelligence.
+
+Cybersecurity Expertise:
+* Risk assessments, SOC monitoring, and incident response.
+* Compliance implementation for ISO 27001, NIS2, SOC 2, GDPR.
+* Cloud security across Azure and AWS environments.
+* Digital forensics, phishing simulations, and Zero Trust architecture.
+
+Data Analytics Expertise:
+* BI dashboarding and storytelling using Power BI and Tableau.
+* Data pipeline optimisation using Python, SQL, Azure SQL, AWS EC2.
+* ETL automation, KPI reporting, and predictive modelling with ML.
+
+Key Achievements:
+* Reduced phishing click rates by 25% via targeted awareness campaigns.
+* Designed a Zero Trust micro‑segmentation strategy, reducing ransomware lateral movement by 40%.
+* Streamlined BI workflows, cutting reporting time by 20% and improving data accuracy by 15%.
+
+Career Goal: To contribute to a forward‑thinking organisation in Ireland by leveraging my combined skills in cybersecurity and data analytics to strengthen security posture, enhance decision‑making, and deliver measurable results.
 
 ---
 
