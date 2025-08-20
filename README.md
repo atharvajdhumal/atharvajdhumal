@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Atharva Dhumal!
 
 🚀 MSc Cybersecurity | MSc AI & Robotics  
-🔐 Cybersecurity | 🛡️ Risk & Compliance | 📊 Data Analytics  
+🔐 Cybersecurity | 🛡️ Governance, Risk & Compliance | 📊 Data Analytics  
 
 ---
 
